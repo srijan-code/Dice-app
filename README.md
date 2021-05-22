@@ -1,7 +1,7 @@
 
 
 
-# Dice
+# Dice app
 
 An app with functionality using setState() inside Stateful Flutter widgets.
 This app makes the die roll at the press of a button.
