@@ -1,31 +1,22 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
-# Dicee 🎲
 
-## Our Goal
+# Dice
 
-The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you how to make apps with functionality using setState() inside Stateful Flutter widgets.
+An app with functionality using setState() inside Stateful Flutter widgets.
+This app makes the die roll at the press of a button.
+
+# Things in this project
+
+- Flutter stateless widgets used to design the user interface.
+- Flutter stateful widgets used to update the user interface.
+- onPressed listeners to detect when buttons are pressed.
+- setState to mark the widget tree as dirty and requiring update on the next render.
+- Expanded to make widgets adapt to screen dimensions.
+- Use of gesture controls.
+
+# Glimpse of the app
 
 
-## What you will create
+https://user-images.githubusercontent.com/68854742/119237333-e990da80-bb59-11eb-82da-8a6243498b5e.mp4
 
-We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
-
-## What you will learn
-
-- How to use Flutter stateless widgets to design the user interface.
-- How to use Flutter stateful widgets to update the user interface.
-- How to change the properties of various widgets.
-- How to use onPressed listeners to detect when buttons are pressed.
-- How to use setState to mark the widget tree as dirty and requiring update on the next render.
-- How to use Expanded to make widgets adapt to screen dimensions.
-- Understand and use string interpolation.
-- Learn about basic dart programming concepts such as data types and functions.
-- Code and use gesture controls.
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
